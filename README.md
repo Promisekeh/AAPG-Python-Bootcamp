@@ -7,13 +7,15 @@ This repo contains course materials for AAPG PYTHON BOOTCAMP 2024.
 2. Promise Ekeh
 3. Abiola Akinnubi
 
+
 ## Week 1: Python Basics by Abiola Akinnubi
 - Data types
 - Data structures
 - Syntax
 
 
-## Week 2: Python Packages for Data Analysis and Data Visualization - by Promise Ekeh
+## Week 2: Python Packages for Data Analysis and Data Visualization  by Promise Ekeh
+`link:` https://github.com/Promisekeh/AAPG-Python-Bootcamp/blob/main/Week%202/python_for_data_analysis.ipynb
 - Pandas
 - Numpy
 - Geopandas
@@ -28,11 +30,15 @@ This repo contains course materials for AAPG PYTHON BOOTCAMP 2024.
 - Supervised and Unsupervised learning using real world case studies
 
 ## Week 5: Capstone Project 1 by Promise & Giles
+`link:` https://github.com/Promisekeh/AAPG-Python-Bootcamp/blob/main/Week%205/water_quality_analysis.ipynb
+- Water Quality Analysis
+
 ## Week 6: Capstone Project 2 TBC 
+- 
 
 
 
 
 
 
-![](image/AAPG_YP_Python_Boot_Camp.png)
+![](AAPG_YP_Python_Boot_Camp.png)
